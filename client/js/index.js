@@ -1,11 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAAUwKpK6j5fy3gTzMwamS5QHTJ7xSic0c",
-  authDomain: "smart-test-ee901.firebaseapp.com",
-  databaseURL: "https://smart-test-ee901-default-rtdb.firebaseio.com",
-  projectId: "smart-test-ee901",
-  storageBucket: "smart-test-ee901.appspot.com",
-  messagingSenderId: "608199887325",
-  appId: "1:608199887325:web:1830f4c5d50e2ce9c6ce34"
+  apiKey: "AIzaSyBt9O2sJ1kNdd-kAznzpOOsMBQ2s3iJXqE",
+  authDomain: "khaled-b3c1a.firebaseapp.com",
+  projectId: "khaled-b3c1a",
+  storageBucket: "khaled-b3c1a.appspot.com",
+  messagingSenderId: "742545932493",
+  appId: "1:742545932493:web:7636d95a29c930cc1e6984"
 };
 firebase.initializeApp(firebaseConfig);
 
